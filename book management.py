@@ -76,7 +76,7 @@ def update_book():
 
 
 def clse():
-    sys.exit() 
+    root.destroy()
 
 
 if _name=="main_":
